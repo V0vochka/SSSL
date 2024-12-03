@@ -8,3 +8,5 @@
 
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/2.png)
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/3.png)
+
+3) Включить на 1й из ВМ передачу логов по протоколу rsyslog на 2ю ВМ
