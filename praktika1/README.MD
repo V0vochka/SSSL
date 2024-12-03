@@ -21,3 +21,9 @@
 Проверка
 
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/8.png)
+
+4) Установить и настроить получение логов на сервер с использованием Loki
+Скачивание файлов разработчика
+
+![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/9.png)
+![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/10.png)
