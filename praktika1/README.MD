@@ -16,3 +16,5 @@
 
 Настройка rsyslog
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/5.png)
+
+![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/6.png)
