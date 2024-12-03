@@ -13,3 +13,6 @@
 
 Установка rsyslog
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/4.png)
+
+Настройка rsyslog
+![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/5.png)
