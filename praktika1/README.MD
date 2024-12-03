@@ -16,4 +16,5 @@
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/5.png)
 Настройка rsyslog
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/6.png)
+Настройка правил на сервере и клиенте
 ![alt-текст](https://github.com/V0vochka/SSSL/blob/main/praktika1/images/7.png)
