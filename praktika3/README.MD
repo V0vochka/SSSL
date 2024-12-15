@@ -7,3 +7,5 @@
 2) Обеспечить между ними сетевой обмен.
 
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/2.png)
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/3.png)
