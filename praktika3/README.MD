@@ -11,3 +11,5 @@
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/3.png)
 
 3) Развернуть на belovvs ВМ сервер Wazuh скачав установщик и конфигурационный файл.
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/4.png)
