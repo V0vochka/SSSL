@@ -4,4 +4,6 @@
 
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/1.png)
 
+1) Обеспечить между ними сетевой обмен.
+
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/2.png)
