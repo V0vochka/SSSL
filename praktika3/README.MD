@@ -97,4 +97,4 @@
 
 15) Проверим результат работы настроенных механизмов
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/28.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/28.png)
