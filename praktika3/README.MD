@@ -13,3 +13,21 @@
 3) Развернуть на belovvs ВМ сервер Wazuh скачав установщик и конфигурационный файл.
 
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/4.png)
+
+4) Настроим конфиг указав IP-адрес серверной машины
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/5.png)
+
+5) Соберем файл wazuh indexer'a и установим manager и dashboard
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/6.png)
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/7.png)
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/8.png)
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/9.png)
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/10.png)
+
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/11.png)
