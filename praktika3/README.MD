@@ -71,29 +71,29 @@
 
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/21.png)
 
-Далее настроим Wazuh-агент для запуска сканирования rootcheck каждые 2 минуты. В /var/ossec/etc/ossec.confфайле. Установите frequency параметр в <rootcheck>разделе на 120:
+Далее настроим Wazuh-агент для запуска сканирования rootcheck каждые 2 минуты. В /var/ossec/etc/ossec.conf файле. Установите frequency параметр в <rootcheck>разделе на 120:
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/22.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/22.png)
 
 13) Настроим выявление SQL-инъекций, установим apache.
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/23.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/23.png)
 
 Разрешим внешний доступ к веб-портам.
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/24.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/24.png)
 
 Проверка статуса 
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/25.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/25.png)
 
 Добавим следующие строки в /var/ossec/etc/ossec.conf файл агента Wazuh для возможности отслеживать журналы доступа вашего сервера Apache
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/26.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/26.png)
 
 14) Настроим выявление web shell attack.
 
-[Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/27.png)
+![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika3/images/27.png)
 
 15) Проверим результат работы настроенных механизмов
 
