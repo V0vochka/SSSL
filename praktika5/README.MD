@@ -10,7 +10,7 @@
 
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika5/images/2.png)
 
-Логин и пароль от admin с прошлой работы
+Логин и пароль от admin с 3 работы
 
 ![Image alt](https://github.com/V0vochka/SSSL/blob/main/praktika5/images/3.png)
 
